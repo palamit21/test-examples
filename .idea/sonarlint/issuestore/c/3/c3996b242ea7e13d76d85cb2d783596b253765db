@@ -1,0 +1,13 @@
+
+C
+java:S1905!"&Remove this unnecessary cast to "int".(Ÿ·òì8Ê×¾ùÏ/
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¿Ô×İùÿÿÿÿ8ü†È—Ü/
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ªúˆû8Ê×¾ùÏ/
+C
+java:S1168J"&Return an empty array instead of null.(¥¹ï8„Ÿğœİ/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(åéót8ƒ‡ôœİ/
+C
+java:S1659"!Declare "end" on a separate line.(Û‚ÌÎøÿÿÿÿ8Ê×¾ùÏ/
+T
+java:S1197"8Move the array designator from the variable to the type.(€„©08Œ÷ÄùÏ/

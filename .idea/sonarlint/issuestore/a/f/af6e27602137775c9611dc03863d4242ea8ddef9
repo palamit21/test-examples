@@ -1,0 +1,16 @@
+
+t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ş¼Ş¢8š«ÉğÜ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(–‰´Èùÿÿÿÿ8œŒóÜ/
+>
+java:S1110
+"!Remove these useless parentheses.(ıî¿Å8½–ŒğÜ/
+C
+java:S1110"!Remove these useless parentheses.(ñùÇËùÿÿÿÿ8¦øÅğÜ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Àƒûø8ŞôğÜ/
+_
+java:S1854"=Remove this useless assignment to local variable "newString".(Éš‚œıÿÿÿÿ8÷©ôğÜ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ØÛíÙşÿÿÿÿ8ï¤ÁğÜ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ØÛíÙşÿÿÿÿ8ÔƒÁğÜ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ØÛíÙşÿÿÿÿ8¦øÅğÜ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(±ü–Øıÿÿÿÿ8’ØÎğÜ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ØÛíÙşÿÿÿÿ8¦øÅğÜ/

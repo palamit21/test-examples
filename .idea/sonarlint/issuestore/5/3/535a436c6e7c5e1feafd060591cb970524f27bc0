@@ -1,0 +1,10 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(î‡øúÿÿÿÿ8úé×„½/
+W
+java:S1854"5Remove this useless assignment to local variable "v".(äÄóéşÿÿÿÿ8úé×„½/
+H
+java:S1481"&Remove this unused "v" local variable.(äÄóéşÿÿÿÿ8úé×„½/
+X	java:S125"<This block of commented-out lines of code should be removed.(©ù¹·8úé×„½/
+T
+java:S1197	"8Move the array designator from the variable to the type.(øò8úé×„½/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ì³µ¶şÿÿÿÿ8úé×„½/

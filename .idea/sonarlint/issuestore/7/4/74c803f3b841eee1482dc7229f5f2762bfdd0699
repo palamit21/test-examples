@@ -1,0 +1,11 @@
+
+ƒ
+java:S4165."aRemove this useless assignment; "arr" already holds the assigned value along all execution paths.(©àêßüÿÿÿÿ8Ö¹õÜÊ/
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(«ºş÷8Ö¹õÜÊ/
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(Ì†¼µ8Ö¹õÜÊ/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŞÜÅÑ
+t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(İáºı8Ö¹õÜÊ/
+Z
+java:S1197#"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ8Ö¹õÜÊ/
+Z
+java:S1197&"8Move the array designator from the variable to the type.(ûà¥›şÿÿÿÿ8Ö¹õÜÊ/

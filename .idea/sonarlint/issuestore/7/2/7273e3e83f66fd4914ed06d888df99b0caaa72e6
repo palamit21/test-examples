@@ -1,0 +1,22 @@
+
+?
+java:S1659
+""Declare "left" on a separate line.(°†È…8×ˆù¤×/
+@
+java:S1659
+"#Declare "right" on a separate line.(°†È…8×ˆù¤×/
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ÐµÒüùÿÿÿÿ8×ˆù¤×/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ä¸òm8×ˆù¤×/
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(ÞÈï«ûÿÿÿÿ8×ˆù¤×/
+Z
+java:S1197<"8Move the array designator from the variable to the type.(À¼ü©øÿÿÿÿ8×ˆù¤×/
+‡
+java:S1149@"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ã‡†¤üÿÿÿÿ8Ö®¢˜Ý/
+H
+java:S1481@"&Remove this unused "v" local variable.(Ã‡†¤üÿÿÿÿ8Ö®¢˜Ý/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¢«ó¡þÿÿÿÿ8×ˆù¤×/
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(”£Æëùÿÿÿÿ8×ˆù¤×/
+A
+java:S1659
+"$Declare "bottom" on a separate line.(°†È…8×ˆù¤×/

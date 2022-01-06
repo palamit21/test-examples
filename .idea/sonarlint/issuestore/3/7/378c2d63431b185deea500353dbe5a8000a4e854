@@ -1,0 +1,17 @@
+
+M
+java:S1481"+Remove this unused "target" local variable.(è”¢öÿÿÿÿÿ8Ğˆ¯ìİ/
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ÏÖ¶ìİ/
+Y
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8«Ôµìİ/
+E	java:S108
+")Either remove or fill this block of code.(é°í8ÏÖ¶ìİ/
+E
+java:S1481")Remove this unused "nums" local variable.(Ÿ¦Å;8ÏÖ¶ìİ/
+U
+java:S1197	"8Move the array designator from the variable to the type.(¢ôò¡8«Ôµìİ/
+\
+java:S1854":Remove this useless assignment to local variable "target".(è”¢öÿÿÿÿÿ8Ğˆ¯ìİ/
+T
+java:S1854"8Remove this useless assignment to local variable "nums".(Ÿ¦Å;8ÏÖ¶ìİ/

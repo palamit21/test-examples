@@ -1,0 +1,25 @@
+
+?
+java:S1659	""Declare "rows" on a separate line.(©µÍØ8ƒ×˜İ/
+A
+java:S1659	"$Declare "bottom" on a separate line.(©µÍØ8ƒ×˜İ/
+F
+java:S1481	")Remove this unused "rows" local variable.(©µÍØ8ƒ×˜İ/
+Z
+java:S1197"8Move the array designator from the variable to the type.(À¼ü©øÿÿÿÿ8­Ö¤˜İ/
+H
+java:S1481	"+Remove this unused "bottom" local variable.(©µÍØ8ƒ×˜İ/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8“î£˜İ/
+U
+java:S1854	"8Remove this useless assignment to local variable "rows".(©µÍØ8ƒ×˜İ/
+>
+java:S1659	"!Declare "col" on a separate line.(©µÍØ8ƒ×˜İ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(§â‚üÿÿÿÿ8¿ËÜ˜İ/
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8“î£˜İ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ğÏ§Öúÿÿÿÿ8¿ËÜ˜İ/
+E
+java:S1481
+"(Remove this unused "dir" local variable.(ÅÓ¤ú8¿ËÜ˜İ/
+W	java:S125"<This block of commented-out lines of code should be removed.(¡û¶8¿ËÜ˜İ/

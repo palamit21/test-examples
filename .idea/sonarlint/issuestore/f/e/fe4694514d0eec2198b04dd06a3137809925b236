@@ -1,0 +1,13 @@
+
+b
+java:S2259)"@A "NullPointerException" could be thrown; "as" is nullable here.(ËÉ¦şÿÿÿÿ8¬¹•“Ê/
+I
+java:S1602;",Remove useless curly braces around statement(ëÃÄå8€‡İ’Ê/
+I
+java:S16023",Remove useless curly braces around statement( ñúÁ8ºû’Ê/
+O
+java:S2789("2Replace this null literal by an "Optional" object.(Œ®Ãİ8¬¹•“Ê/
+J	java:S108)")Either remove or fill this block of code.(ËÉ¦şÿÿÿÿ8üÕ–“Ê/
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(Ş”¹ıÿÿÿÿ8ºû’Ê/
+]	java:S1257"<This block of commented-out lines of code should be removed.(è½†ùÿÿÿÿ8âã’Ê/
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(Ş”¹ıÿÿÿÿ8€‡İ’Ê/

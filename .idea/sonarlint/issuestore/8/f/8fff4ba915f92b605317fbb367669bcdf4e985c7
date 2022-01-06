@@ -1,0 +1,22 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(Ö½½íþÿÿÿÿ8ä¤½”À/
+m	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ÈãÃ8ä¤½”À/
+O
+java:S1199"-Extract this nested code block into a method.(Í‡¬‰úÿÿÿÿ8ä¤½”À/
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Š‡é8ä¤½”À/
+U
+java:S1197)"8Move the array designator from the variable to the type.(¥ÈãÃ8ä¤½”À/
+Z
+java:S1197"8Move the array designator from the variable to the type.(Î‘•Äüÿÿÿÿ8ä¤½”À/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î‘•Äüÿÿÿÿ8ä¤½”À/
+?
+java:S1659""Declare "temp" on a separate line.(¿™‹š8ä¤½”À/
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(º¼É°8ä¤½”À/
+>	java:S131""Add a default case to this switch.(€ÒÑØ8ä¤½”À/
+O
+java:S1199"-Extract this nested code block into a method.(ðÁ–Óûÿÿÿÿ8ä¤½”À/
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(¡Î¯Îýÿÿÿÿ8ä¤½”À/
+Z
+java:S11974"8Move the array designator from the variable to the type.(ýÂÉœüÿÿÿÿ8ä¤½”À/
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ8ä¤½”À/
+r	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢íóÔùÿÿÿÿ8ä¤½”À/

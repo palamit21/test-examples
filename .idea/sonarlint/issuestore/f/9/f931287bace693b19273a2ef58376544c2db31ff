@@ -1,0 +1,20 @@
+
+V
+java:S1128"4Remove this unused import 'java.util.PriorityQueue'.(ÆãÑşøÿÿÿÿ8ÈÄµÊÉ/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌËúÿÿÿÿ8ÑØ¾ËÉ/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í—¨¡úÿÿÿÿ8ÑØ¾ËÉ/
+r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú½àşÿÿÿÿ8ÑØ¾ËÉ/
+r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú½àşÿÿÿÿ8ÑØ¾ËÉ/
+Z
+java:S1197	"8Move the array designator from the variable to the type.(Ú½àşÿÿÿÿ8ÑØ¾ËÉ/
+s	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶…Âşÿÿÿÿ8ÈÄµÊÉ/
+s	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö‡…İûÿÿÿÿ8ÈÄµÊÉ/
+V	java:S106”"9Replace this use of System.out or System.err by a logger.(½«Îª8ÈÄµÊÉ/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÌËúÿÿÿÿ8ÑØ¾ËÉ/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Í—¨¡úÿÿÿÿ8ÑØ¾ËÉ/
+t
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ú½àşÿÿÿÿ8ÑØ¾ËÉ/
+[
+java:S1197"8Move the array designator from the variable to the type.(¡·É»ûÿÿÿÿ8ÈÄµÊÉ/

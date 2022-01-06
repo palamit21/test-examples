@@ -1,0 +1,12 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®Ûˆıùÿÿÿÿ8Ä™ú¶Ã/
+Z
+java:S1197"8Move the array designator from the variable to the type.(è¬À÷ûÿÿÿÿ8°ã´¶Ã/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(–àÕŒüÿÿÿÿ8»Á¶Ã/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8Âµ¿¶Ã/
+E
+java:S1481"(Remove this unused "sum" local variable.(Ôôîå8‚š¾¶Ã/
+Z
+java:S1197"8Move the array designator from the variable to the type.(‰áÈÆúÿÿÿÿ8À“‚¶Ã/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(–àÕŒüÿÿÿÿ8¼ëø¶Ã/
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(»äñÙıÿÿÿÿ8÷àÉ¶Ã/

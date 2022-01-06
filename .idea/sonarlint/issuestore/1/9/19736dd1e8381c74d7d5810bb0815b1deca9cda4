@@ -1,0 +1,30 @@
+
+U	java:S106g"9Replace this use of System.out or System.err by a logger.(¬©¸ö8Ô‘öäÜ/
+X	java:S125K"<This block of commented-out lines of code should be removed.(üàì‹8¡¡ÒïÜ/
+]	java:S125n"<This block of commented-out lines of code should be removed.(‘Éğ†ıÿÿÿÿ8¤ÚäÜ/
+X	java:S125"<This block of commented-out lines of code should be removed.(ÆøÂ¯8âñÁãÜ/
+[	java:S106”"9Replace this use of System.out or System.err by a logger.(²ÄÓ«ıÿÿÿÿ8¤ÚäÜ/
+9
+java:S1116/"Remove this empty statement.( ¤å8°À³äÜ/
+X	java:S125A"<This block of commented-out lines of code should be removed.(üàì‹8èÏĞïÜ/
+]	java:S125O"<This block of commented-out lines of code should be removed.(»ûßúÿÿÿÿ8À ÔïÜ/
+V	java:S106•"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8ÉøäÜ/
+U
+java:S1197/"8Move the array designator from the variable to the type.( ¤å8¦¼§äÜ/
+]	java:S125_"<This block of commented-out lines of code should be removed.(Ø²˜óıÿÿÿÿ8¤ÚäÜ/
+O
+java:S1199I"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8©´ããÜ/
+`
+java:S1155c">Use isEmpty() to check whether the collection is empty or not.(•µ§¿şÿÿÿÿ8†‹ÖïÜ/
+]	java:S125="<This block of commented-out lines of code should be removed.(ÆãŒ‰şÿÿÿÿ8‚İÍïÜ/
+O
+java:S1199~"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8¤ÚäÜ/
+X	java:S125-"<This block of commented-out lines of code should be removed.(‘Ô‰£8ÑØéïÜ/
+r
+java:S1149p"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Óêãïùÿÿÿÿ8¤ÚäÜ/
+P
+java:S1199…"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8¤ÚäÜ/
+O
+java:S1199@"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8©´ããÜ/
+]	java:S1250"<This block of commented-out lines of code should be removed.(ÔÑÌ”ûÿÿÿÿ8ó¢¾äÜ/
+Z	java:S106d"9Replace this use of System.out or System.err by a logger.(ÿ¡éøÿÿÿÿÿ8¤ÚäÜ/

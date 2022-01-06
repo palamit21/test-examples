@@ -1,0 +1,14 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(åù‰î8¾ûßëİ/
+Z
+java:S1197	"8Move the array designator from the variable to the type.(—œç‚üÿÿÿÿ8ğöÅëİ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¬˜ùúÿÿÿÿ8ÅŒÖëİ/
+Z
+java:S1197"8Move the array designator from the variable to the type.(¬á«Ôüÿÿÿÿ8ÎÂëİ/
+L
+java:S3740"/Provide the parametrized type for this generic.(¹Óú 8Ù†ßëİ/
+]	java:S125
+"<This block of commented-out lines of code should be removed.(µßåşøÿÿÿÿ8ÅŒÖëİ/
+U
+java:S1197"8Move the array designator from the variable to the type.(§İßÃ8“ÚËëİ/
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(’Áê©8ò˜ìİ/

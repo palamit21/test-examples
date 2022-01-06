@@ -1,0 +1,8 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(¶ù·Ú8ì¡®œİ/
+m
+java:S1149	"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ëí¹„8ˆŞ«œİ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ã¼‹ºùÿÿÿÿ8ì¡®œİ/
+m
+java:S1149
+"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Û¢Ç8ˆŞ«œİ/

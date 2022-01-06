@@ -1,0 +1,13 @@
+
+T
+java:S1854"7Remove this useless assignment to local variable "cur".(ŸÑÜ8ıöºêİ/
+X	java:S125"<This block of commented-out lines of code should be removed.(‚€Óµ8Å…èéİ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(–È×Â8±§ééİ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ôÙ¦¬ıÿÿÿÿ8¡ÀÖéİ/
+U
+java:S1197"8Move the array designator from the variable to the type.(˜Ãò8ìÎÆéİ/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿı‘Ñÿÿÿÿÿ8ıöºêİ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(–È×Â8íõÑéİ/
+E
+java:S1481"(Remove this unused "cur" local variable.(ŸÑÜ8ıöºêİ/

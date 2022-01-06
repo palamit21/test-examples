@@ -1,0 +1,30 @@
+
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ã§€¿ÿÿÿÿÿ
+N
+java:S1197)"8Move the array designator from the variable to the type.(ØğŸ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(¦Ó
+S
+java:S1197;"8Move the array designator from the variable to the type.(‘¤Àúÿÿÿÿ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(¹èìš
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(óá€¬úÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(Ÿ©æ¯şÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(§Ÿñ¾üÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(§Ÿñ¾üÿÿÿÿ
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(ü„´’
+N	java:S106="9Replace this use of System.out or System.err by a logger.(Í¸‘ß
+S
+java:S11975"8Move the array designator from the variable to the type.(Õß½úÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ë½§šûÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(ÆØã›øÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(™¿Œ±øÿÿÿÿ
+†
+java:S1192."kDefine a constant instead of duplicating this literal "++++++++++++++++++++++++++++++++++++++++++" 3 times.(§Ÿñ¾üÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(ÅŸÂ¤
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(©ÂÈª
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(¶Å‘Ñùÿÿÿÿ
+N
+java:S1197/"8Move the array designator from the variable to the type.(ô¶Ó‹
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(§Ÿñ¾üÿÿÿÿ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(ôşÖÒ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(ÔÑ»ùÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(·í†ßúÿÿÿÿ

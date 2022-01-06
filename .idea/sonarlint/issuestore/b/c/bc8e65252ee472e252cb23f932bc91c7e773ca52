@@ -1,0 +1,12 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(‚éÆ¢üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¡’¹®úÿÿÿÿ
+Z
+java:S1128"DRemove this unused import 'java.util.concurrent.ThreadPoolExecutor'.(¦ÿöÊ
+S
+java:S1854"8Remove this useless assignment to local variable "list".(€‘œÚûÿÿÿÿ
+G
+java:S1172",Remove this unused method parameter "input".(Øáúúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+D
+java:S1481")Remove this unused "list" local variable.(€‘œÚûÿÿÿÿ

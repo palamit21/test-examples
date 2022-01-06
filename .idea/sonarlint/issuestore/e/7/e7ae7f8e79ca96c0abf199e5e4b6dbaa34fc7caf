@@ -1,0 +1,28 @@
+
+Y
+java:S1854"7Remove this useless assignment to local variable "arr".(‘Ä†áüÿÿÿÿ8†³ÑáÄ/
+Z
+java:S1197"8Move the array designator from the variable to the type.(ø¸³àúÿÿÿÿ8ÿÑáÄ/
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(¯ä˜ï8ÿÑáÄ/
+A
+java:S1659"Declare "k" on a separate line.(ãäÚ‘üÿÿÿÿ8¦úĞáÄ/
+U
+java:S1197"8Move the array designator from the variable to the type.(²÷îŠ8ÿÑáÄ/
+U
+java:S1197"8Move the array designator from the variable to the type.(¬‘Ü†8ÿÑáÄ/
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8†³ÑáÄ/
+Z
+java:S1197"8Move the array designator from the variable to the type.(‘Ä†áüÿÿÿÿ8İæ áÄ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(—¯‹äşÿÿÿÿ8¦úĞáÄ/
+J
+java:S1481"(Remove this unused "arr" local variable.(‘Ä†áüÿÿÿÿ8†³ÑáÄ/
+A
+java:S1659"Declare "j" on a separate line.(ãäÚ‘üÿÿÿÿ8¦úĞáÄ/
+U
+java:S1197"8Move the array designator from the variable to the type.(—ş8¦úĞáÄ/
+U
+java:S1197"8Move the array designator from the variable to the type.(—ş8¦úĞáÄ/
+U
+java:S1197"8Move the array designator from the variable to the type.(—ş8¦úĞáÄ/
