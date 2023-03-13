@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class GoldStolen {
     // Function to calculate the maximum stolen value
     static int maxLoot(int hval[], int n)
@@ -47,6 +49,7 @@ public class GoldStolen {
         for (int i = 2; i<n; i++)
             dp[i] = Math.max(hval[i]+dp[i-2], dp[i-1]);
 
+        System.out.println(Arrays.toString(dp));
         return dp[n-1];
     }
 

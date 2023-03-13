@@ -34,6 +34,42 @@ public class ProductArray {
         /* print the constructed prod array */
         for (i = 0; i < n; i++)
             System.out.print(prod[i] + " ");
+        System.out.println("---");
+        System.out.println(Arrays.toString(productExceptSelf(a)));
 
+        System.out.println(" from second "+Arrays.toString(productExceptSelf1(a)));
+
+    }
+
+
+
+    public static int[] productExceptSelf(int[] nums) {
+        int n = nums.length;
+        int[] res = new int[n];
+        res[0] = 1;
+        //left
+        for (int i = 1; i < n; i++) {
+            res[i] = res[i - 1] * nums[i - 1];
+        }
+        //right array
+        int right = 1;
+        for (int i = n - 1; i >= 0; i--) {
+            res[i] = res[i]*right;
+            right = right*nums[i];
+        }
+        return res;
+    }
+    private static int[] productExceptSelf1(int[] a) {
+        int product=1;
+        for (int i = 0; i < a.length; i++) {
+            product=product*a[i];
+
+        }
+        for (int i = 0; i < a.length; i++) {
+            a[i]=product/a[i];
+
+        }
+
+        return a;
     }
 }

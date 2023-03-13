@@ -7,8 +7,8 @@ public class SumOfArray {
         int arr[]={1,4,20,3,10,20,5};
         int target=33;
         solveEfficient(arr, target);
-        int []nums = {2,7,11,15};
-        System.out.println(Arrays.toString(twoSum(nums,9)));
+        int []nums = {5,7,2,10};
+        System.out.println(Arrays.toString(twoSum(nums,12)));
 
     }
 
@@ -62,16 +62,22 @@ public class SumOfArray {
         }
 
     }
-    public  static int[] twoSum(int[] nums, int target) {
+    public static int[] twoSum(int[] nums, int target) {
+        //int []nums = {5,7,2,15};
+        if (nums == null || nums.length < 2) return new int[0];
+        int[] result = new int[2];
         Map<Integer,Integer> map = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
-            if (map.containsKey(nums[i])) {
-                return new int[]{map.get(nums[i]),i};
+            if (map.get(nums[i]) != null) {
+                result[0] = i;
+                result[1] = map.get(nums[i]);
+               break;
             } else {
-                map.put(target - nums[i],i);
+                int diff = (target - nums[i]);
+                map.put(diff, i);
             }
         }
-        return null;
+        return result;
     }
    // 3+4=7
     //3=7-4

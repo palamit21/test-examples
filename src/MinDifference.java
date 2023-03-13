@@ -10,6 +10,12 @@ public class MinDifference {
 
     int minVal = Integer.MAX_VALUE;
     for(int i=1; i<arr.length; i++){
+      minVal = Math.min(1, 4);
+    }
+    System.out.println(minVal);
+
+
+    for(int i=1; i<arr.length; i++){
       minVal = Math.min(arr[i]-arr[i-1], minVal);
     }
     //minVal=1;

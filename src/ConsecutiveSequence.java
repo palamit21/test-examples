@@ -50,7 +50,7 @@ public class ConsecutiveSequence {
     // Driver Code
     public static void main(String[] args)
     {
-      String str = "99100";
+      String str = "9192";
       System.out.println("String: " + str);
       int start = isConsecutive(str);
       if (start != -1)
@@ -58,7 +58,7 @@ public class ConsecutiveSequence {
       else
         System.out.println("No");
 
-      String str1 = "121122";
+      String str1 = "122123";
       System.out.println("\nString: " + str1);
       start = isConsecutive(str1);
       if (start != -1)
